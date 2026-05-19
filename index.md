@@ -43,7 +43,7 @@ to, and track the impact of their donations.
 
 ### Charity Donation Platform Use Case Diagram
 
-![Charity Donation Platform](charity-usecase.png)
+
 
 #### Actors
 - **Donor:** Browses campaigns and makes donations.

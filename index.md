@@ -60,3 +60,23 @@ to, and track the impact of their donations.
 - **Create Campaign:** Lets organizations create campaigns.
 - **Manage Campaigns:** Allows admin control.
 - **Track Donation Impact:** Lets donors view campaign progress.
+
+
+
+## Lab 4 – Sequence Diagrams
+
+### Part 1 – Library Kiosk
+
+
+
+#### Description
+The sequence diagram models the book return process in a library kiosk. The student returns a book, the system validates it, updates inventory, sends notifications, and confirms success. If the book is overdue, a fine payment process is triggered.
+
+---
+
+### Part 2 – Charity Donation Platform
+
+
+
+#### Description
+The donor browses campaigns and makes a donation through the platform. The system verifies the user, processes payment through the payment gateway, updates donation records, and sends confirmation notifications. If payment fails, the donation process ends.

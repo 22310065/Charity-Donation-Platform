@@ -23,7 +23,7 @@ to, and track the impact of their donations.
 
 ### Online Bookstore Use Case Diagram
 
-![Online Bookstore Diagram](online-bookstore.png)
+
 
 #### Actors
 - **Customer:** Searches and views books.

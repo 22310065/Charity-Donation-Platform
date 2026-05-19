@@ -80,3 +80,24 @@ The sequence diagram models the book return process in a library kiosk. The stud
 
 #### Description
 The donor browses campaigns and makes a donation through the platform. The system verifies the user, processes payment through the payment gateway, updates donation records, and sends confirmation notifications. If payment fails, the donation process ends.
+
+
+
+
+## Lab 5 – Activity Diagrams
+
+### Part 1 – Library Kiosk Activity Diagram
+
+
+
+#### Description
+The activity diagram models the workflow of returning a book to the library kiosk. The system validates the book and checks whether it is overdue. If overdue, the student must pay a fine before the process continues. Once accepted, the system performs parallel activities including inventory update, notification sending, and shelf placement.
+
+---
+
+### Part 2 – Charity Donation Platform Activity Diagram
+
+
+
+#### Description
+The activity diagram models how a non-profit organization creates a fundraising campaign. The user logs in, enters campaign information, uploads documents, and submits the campaign. If information is invalid, the system requests corrections. Once approved, the system saves the campaign and simultaneously publishes it and sends a confirmation notification.
